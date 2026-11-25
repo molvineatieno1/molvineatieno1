@@ -19,20 +19,33 @@ Technical Skills
 
 Featured Projects
 
-1. Pharmacy Data Warehouse
-- Tool: SQL Server
-- Working with data staging, data integration and warehouse development.
-- Focus: Data management and ETL processes.
 
-2. Bank Customer Segmentation
-- Tool: Python
-- Exploring customer behaviour through data preparation and clustering.
-- Focus: Customer segmentation and pattern identification.
+Featured Project
 
-### 3. Appointment Risk Analysis
-- Tool: Python
-- Analysing patient appointment data to identify factors associated with missed appointments.
-- Focus: Data analysis and predictive modelling.
+Cancer Data Analysis and Interpretation
+
+Tools: Data Analysis, Statistical Interpretation, Microsoft Word
+
+Project Overview:
+
+Conducted an analysis of cancer-related data covering 28 years across 51 countries, focusing on cancer burden, survival rates and screening coverage.
+
+Key Indicators Analysed:
+- 62.1 million new cancer cases.
+- 18.1 million cancer-related deaths.
+- 68.7% average five-year survival rate.
+- 31.8% average mammography coverage.
+
+Key Activities:
+- Reviewed and interpreted cancer-related data.
+- Examined indicators relating to cancer incidence, mortality and survival.
+- Interpreted findings on screening coverage.
+- Prepared a structured report presenting the findings and their implications.
+
+Project Output: Cancer Data Analysis Report.
+
+Focus Areas: Data interpretation, research, statistical analysis and reporting.
+
 
 Education
 
